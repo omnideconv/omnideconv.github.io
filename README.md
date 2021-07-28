@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to omnideconv
 
-You can use the [editor on GitHub](https://github.com/omnideconv/omnideconv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The possibility to computationally infer the cellular composition of heterogeneous samples profiled with (cheap) bulk RNA-seq or DNA methylation is a powerful way to advance our understanding of tissue and organ development as well as diseases. Building on the success of [immunedeconv](https://github.com/icbi-lab/immunedeconv) for in silico deconvolution of immune cells, we envision to build a comprehensive platform called omnideconv, which will streamline existing methods for cell type deconvolution, facilitate important benchmarks, offer cross-species support, bridge RNA-seq and DNAm assays and offer user-friendly access to signature generation and comparative analyses. The change in the project's name from immunedeconv to omnideconv is owed to the possibilites offered by second-generation methods which construct cell-type specific signatures directly from single-cell RNA-seq data, thus extending the possibilities of cell-type deconvolution to additional cell types and tissues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contact
 
-### Markdown
+If you have questions or comments, reach out to [Francesca Finotello](mailto:francesca.finotello@i-med.ac.at?subject=omnideconv),  [Markus List](mailto:markus.list@wzw.tum.de?subject=omnideconv) or  [Gregor Sturm](mailto:gregor.stum@i-med.ac.at?subject=omnideconv).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omnideconv/omnideconv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

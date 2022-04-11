@@ -1,12 +1,8 @@
-<div id="large-header" class="large-header">
-	<h1 class="main-title">
-          ![Omnideconv](omnideconv_logo.jpg)
-	     <button type="button" class="btn btn-default wow fadeInLeft">Omnideconv</button>
-	     <button type="button" class="btn btn-primary wow fadeInRight">SimBu</button>
-	</h1>
-</div>
+# In silico cell type deconvolution of bulk omics profiles made easy
 
-# Robust in silico deconvolution of cell types in bulk RNA-seq from any tissue
+![Omnideconv](omnideconv_logo.jpg)
+
+# Robust deconvolution of cell types from any tissue
      
 The possibility to computationally infer the cellular composition of heterogeneous samples profiled with (cheap) bulk RNA (RNA-seq) or DNA methylation (DNAm) sequencing is a powerful way to advance our understanding of tissue and organ development as well as diseases. Building on the success of [`immunedeconv`](https://github.com/icbi-lab/immunedeconv) for in silico deconvolution of immune cells, [`omnideconv`](https://github.com/omnideconv/omnideconv) will streamline existing methods for cell type deconvolution, facilitate systematic benchmarking, offer multi-species support, bridge RNA-seq and DNAm assays, and offer user-friendly access to signature generation and comparative analyses. The change in the project's name from `immunedeconv` to `omnideconv` is owed to the possibility offered by second-generation methods to construct cell-type specific signatures directly from single-cell RNA-seq data, thus possibly extending cell-type deconvolution to any cell type, organism, and tissue profiled with single-cell technology. 
 

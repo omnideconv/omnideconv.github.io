@@ -1,4 +1,4 @@
-# In silico cell type deconvolution of bulk omics profiles made easy
+# 
 
 ![Omnideconv](omnideconv_logo.jpg)
 

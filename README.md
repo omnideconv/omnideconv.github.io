@@ -1,4 +1,4 @@
-<img src="https://github.com/omnideconv/omnideconv/blob/main/vignettes/logo/omnideconv_logo.jpg"/>
+![Omnideconv](images/omnideconv_logo.jpg)
 
 # Robust in silico deconvolution of cell types in bulk RNA-seq from any tissue
      

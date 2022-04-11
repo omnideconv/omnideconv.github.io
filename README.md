@@ -1,4 +1,10 @@
-# ![Omnideconv](omnideconv_logo.jpg)
+<div id="large-header" class="large-header">
+	<h1 class="main-title">
+          ![Omnideconv](omnideconv_logo.jpg)
+	     <button type="button" class="btn btn-default wow fadeInLeft">Omnideconv</button>
+	     <button type="button" class="btn btn-primary wow fadeInRight">SimBu</button>
+	</h1>
+</div>
 
 # Robust in silico deconvolution of cell types in bulk RNA-seq from any tissue
      

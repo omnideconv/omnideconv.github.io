@@ -1,4 +1,3 @@
-# Welcome to Omnideconv
 
 ![Omnideconv](omnideconv_logo.jpg)
 

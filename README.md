@@ -12,5 +12,5 @@ To facilitate benchmarking of second-generation cell type deconvolution tools we
 
 # Contact
 
-If you have questions or comments, reach out to [Francesca Finotello](mailto:francesca.finotello@i-med.ac.at?subject=omnideconv), [Markus List](mailto:markus.list@wzw.tum.de?subject=omnideconv), or [Gregor Sturm](mailto:gregor.stum@i-med.ac.at?subject=omnideconv).
+If you have questions or comments, reach out to [Francesca Finotello](mailto:francesca.finotello@uibk.ac.at?subject=omnideconv), [Markus List](mailto:markus.list@wzw.tum.de?subject=omnideconv), or [Gregor Sturm](mailto:gregor.stum@i-med.ac.at?subject=omnideconv).
 

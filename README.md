@@ -16,7 +16,7 @@ The possibility to computationally infer the cellular composition of heterogeneo
 
 # Simulating in silico ground truth data with pseudo-bulk RNA-seq
 
-To facilitate benchmarking of second-generation cell type deconvolution tools we have further created [`SimBu`](https://github.com/omnideconv/simbu), the first dedicated tool for generating faithful pseudo-bulk RNA-seq data sets that serve as an insilico gold standard with known cell type fractions for benchmarking. Pseudo-bulk samples are generated from single-cell RNA-seq data where single cells are aggregated in user-defined fractions. In contrast to existing simulation approaches, [`SimBu`](https://github.com/omnideconv/simbu) offers a user-friendly and well-documented tool and is the only approach considering that the total amount of mRNA differs by cell type.
+To facilitate benchmarking of second-generation cell type deconvolution tools we have further created [`SimBu`](https://omnideconv/SimBu), the first dedicated tool for generating faithful pseudo-bulk RNA-seq data sets that serve as an insilico gold standard with known cell type fractions for benchmarking. Pseudo-bulk samples are generated from single-cell RNA-seq data where single cells are aggregated in user-defined fractions. In contrast to existing simulation approaches, [`SimBu`](https://omnideconv.org/SimBu) offers a user-friendly and well-documented tool and is the only approach considering that the total amount of mRNA differs by cell type.
 
 # Contact
 

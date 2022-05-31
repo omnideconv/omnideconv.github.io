@@ -18,7 +18,7 @@ Since the performance of in silico approaches for estimating immune-cell fractio
      
 The possibility to computationally infer the cellular composition of heterogeneous samples profiled with (cheap) bulk RNA (RNA-seq) or DNA methylation (DNAm) sequencing is a powerful way to advance our understanding of tissue and organ development as well as diseases. Building on the success of [`immunedeconv`](https://omnideconv.org/immunedeconv) for in silico deconvolution of immune cells, [`omnideconv`](https://omnideconv.org/omnideconv) will streamline existing methods for cell type deconvolution, facilitate systematic benchmarking, offer multi-species support, and offer user-friendly access to signature generation and comparative analyses. The change in the project's name from [`immunedeconv`](https://omnideconv.org/immunedeconv) to [`omnideconv`](https://omnideconv.org/omnideconv) is owed to the possibility offered by second-generation methods to construct cell-type specific signatures directly from single-cell RNA-seq data, thus possibly extending cell-type deconvolution to any cell type, organism, and tissue profiled with single-cell technology. 
 
-# Simulating in silico ground truth data with pseudo-bulk RNA-seq
+# Simulating in silico ground-truth data with pseudo-bulk RNA-seq
 
 [Source code](https://github.com/omnideconv/SimBu/) | [Issue tracker](https://github.com/omnideconv/SimBu/issues) | [Documentation](https://omnideconv.org/SimBu) 
 

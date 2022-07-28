@@ -1,6 +1,8 @@
 # Welcome to omnideconv!
 
-omnideconv is an ecosystem of user-friendly tools and resources for the cell-type deconvolution of any organism and tissue profiled with bulk transcriptomics.
+*omnideconv* is an ecosystem of user-friendly tools and resources for the cell-type deconvolution of any organism and tissue profiled with bulk transcriptomics.
+
+To learn how you can contribute, read our [Contributor's guide'](contributor_guide.html)
 
 # Estimating immune-cell fractions from bulk RNA-seq data
 

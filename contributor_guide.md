@@ -1,4 +1,8 @@
-<!-- TODO: rewrite for generic omnideconv package and put on the website; link it from `.github/CONTRIBUTING.md` -->
+---
+layout: default
+title: Contributor's guide 
+description: This page gets you started with contributing to omnideconv 
+---
 
 # Contributing to the omnideconv communitiy
 
